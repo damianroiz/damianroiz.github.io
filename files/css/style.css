@@ -1,0 +1,41 @@
+#main-title {
+	font-size: 100px;
+	color: khaki;
+	text-align: center;
+	background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg)
+}
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+h1 {
+  background: url("/Users/damiancoz/Documents/webdev/codecademy/html-css/Dasmotos-arts-and=crafts/files/media/pattern.jpeg"); 
+  text-align: center;
+  font-size: 100px;
+  color: khaki;
+}
+
+
+span {
+	color: blue; 
+}
+
+#main-title, h2, span {
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+#brushes {
+	background-color: mediumspringgreen;
+}
+
+#frames {
+	background-color: lightcoral;
+}
+
+#paint {
+	background-color: skyblue;
+}
