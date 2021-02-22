@@ -14,7 +14,7 @@ body {
 .navbar {
   height: 30rem;
   padding-top: 1rem;
-  background-image: url("/Users/damiancoz/Documents/webdev/codecademy/html-css/la-menorquina-panaderia/images/la-menorquina.jpg");
+  background-image: url("https://images.unsplash.com/photo-1454641350786-bc31a1997ba9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80g");
   background-position: center;
   background-size: cover;
 }
